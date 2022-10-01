@@ -1,3 +1,8 @@
+################################################################################################################################################
+### NOTE: This script was written in early 2021, have added the original paper with the algorithm from which the simulation was derived ########
+# From Susan Murphy in NIPS 2017: https://papers.nips.cc/paper/2017/file/4fa177df22864518b2d7818d4db5db2d-Paper.pdf ############################
+################################################################################################################################################
+
 # import matplotlib.pyplot as plt
 # import json
 import pandas as pd
